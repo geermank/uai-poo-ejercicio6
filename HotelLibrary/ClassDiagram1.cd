@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="HotelLibrary.Habitacion">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAFAgAARQAAAUAAAAEEAAAABAAA=</HashCode>
+      <FileName>Habitacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.Caracteristica">
+    <Position X="5.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACEAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Caracteristica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.Artefacto">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACEAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Artefacto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.Reserva">
+    <Position X="1.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEQCAEBAQABgBECAIAACgAAAAACAEEACAAJAAgBAA=</HashCode>
+      <FileName>Reserva.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.Cancelacion">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cancelacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.Persona">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAABAAQAAACEAAAAgAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.CreadorDeHabitaciones">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAABQAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>CreadorDeHabitaciones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.VistaAlMar">
+    <Position X="5.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>VistaAlMar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.Adicional">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAgAAQAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adicional.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.CreadorDeCaracteristicas">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>CreadorDeCaracteristicas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.CreadorDeArtefactos">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>CreadorDeArtefactos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.CreadorDeAdicionales">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAQEAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreadorDeAdicionales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.AdicionalFijo">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdicionalFijo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HotelLibrary.Hotel">
+    <Position X="5.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAgARAAAAAAxBBUmAAAAQAAAQAAAAAAAgAAABAA=</HashCode>
+      <FileName>Hotel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
