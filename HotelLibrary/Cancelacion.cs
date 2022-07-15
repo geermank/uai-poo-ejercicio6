@@ -15,6 +15,11 @@ namespace HotelLibrary
             this.fechaDeCancelacion = fechaDeCancelacion;
         }
 
+        public DateTime FechaCancelacion
+        {
+            get { return fechaDeCancelacion; }
+        }
+
         public float CostoDeCancelacion
         {
             get

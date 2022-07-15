@@ -7,6 +7,7 @@ namespace HotelLibrary
     {
         private Reserva reserva;
         private List<Adicional> adicionalesGeneradosEnLaEstadia;
+        private bool concluida;
 
         public Estadia(Reserva reserva)
         {
@@ -32,6 +33,21 @@ namespace HotelLibrary
             {
                 return ImporteAPagar + reserva.Deposito;
             }
+        }
+
+        public bool Concluida
+        {
+            get { return concluida; }
+        }
+        
+        public Reserva Reserva
+        {
+            get { return reserva; }
+        }
+        
+        public void Concluir()
+        {
+            concluida = true;
         }
 
         private float CostoAdicionales()
